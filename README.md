@@ -14,15 +14,14 @@
 
 ### 👩‍💻 About Me
 
-ML Engineer with **production-level** experience at **Innoviti Technologies**, building:
+> ML Engineer shipping production AI — not just notebooks.
 
-- 🤖 **LLM inference services** (Qwen) with latency optimization and modular architecture
-- 👁️ **YOLO-based QC systems** for real-time object verification
-- 🕸️ **GNN + XGBoost pipelines** for fraud detection and merchant validation
-- 🔐 **KYC automation backend** with validation workflows at scale
-- 🗄️ **Real-time data ingestion** with anomaly detection → PostgreSQL storage
+6 months building at **Innoviti Technologies**: deployed **LLMs (Qwen)** and **YOLO** into live inference services, engineered a **GNN + XGBoost** fraud detection pipeline, and built **KYC automation** handling real transaction data at scale.
 
-Currently building an end-to-end **store locator system** focused on scalable geospatial querying. Co-authored research on hybrid ML systems at **ICTAM 2024**.
+Currently: end-to-end store locator system with geospatial querying on PostgreSQL.
+Research: co-authored hybrid ML systems paper at **ICTAM 2024**.
+
+📍 Navi Mumbai · 🎓 B.E. IT, A.C. Patil (7.57 CGPA) · 🟢 Open to ML / Data Engineering roles.
 
 ---
 

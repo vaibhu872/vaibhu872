@@ -16,7 +16,7 @@
 
 > ML Engineer shipping production AI — not just notebooks.
 
-6 months building at **Innoviti Technologies**: deployed **LLMs (Qwen)** and **YOLO** into live inference services, engineered a **GNN + XGBoost** fraud detection pipeline, and built **KYC automation** handling real transaction data at scale.
+7 months building at **Innoviti Technologies**: deployed **LLMs (Qwen)** and **YOLO** into live inference services, engineered a **GNN + XGBoost** fraud detection pipeline, and built **KYC automation** handling real transaction data at scale.
 
 Currently: end-to-end store locator system with geospatial querying on PostgreSQL.
 Research: co-authored hybrid ML systems paper at **ICTAM 2024**.
